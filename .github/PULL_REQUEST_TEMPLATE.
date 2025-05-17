@@ -1,0 +1,22 @@
+# Descripción
+<!-- Explica brevemente qué hace este PR -->
+
+# Tipo de cambio
+<!-- Marca con una X lo que aplique -->
+- [ ] Bugfix
+- [ ] Nueva funcionalidad
+- [ ] Refactorización
+- [ ] Documentación
+- [ ] Otro:
+
+# ¿Cómo probarlo?
+<!-- Indica cómo probar los cambios, pasos, comandos, etc -->
+
+# Checklist
+- [ ] El código sigue las guías de estilo
+- [ ] Las pruebas nuevas y existentes pasan
+- [ ] La documentación está actualizada
+- [ ] No hay warnings ni errores
+
+# Notas adicionales
+<!-- Cualquier comentario extra para los revisores -->
